@@ -38,5 +38,8 @@
       "last 1 safari version"
     ]
   },
-  "proxy" : "https://api.edamam.com/"
+  "proxy": "https://api.edamam.com/",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
