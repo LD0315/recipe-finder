@@ -4,6 +4,7 @@
 
 body {
   background-color: #C0EEE4;
+  font-family: Comic Sans MS, Comic Sans, cursive;
 }
 
 .App-header {
@@ -49,7 +50,7 @@ body {
 
 .Ingredient p{
   margin: 0;
-  font-size: 10px;
+  font-size: 12px;
 }
 
 .Ingredient span{
