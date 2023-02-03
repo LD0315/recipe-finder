@@ -1,6 +1,6 @@
 {
-  "homepage": "https://LD0315.github.io/recipe-finder",
-  "name": "recipe-finder",
+  "homepage": "https://LD0315.github.io/recipeFinder",
+  "name": "recipeFinder",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
